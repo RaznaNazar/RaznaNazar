@@ -2,9 +2,12 @@
 
 *Welcome to my GitHub profile.* 🌸
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razna-nazar/)
-           [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/razna_._/)
-
+<a href="https://www.linkedin.com/in/razna-nazar/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30" height="30"/>
+</a>
+           <a href="https://www.instagram.com/razna_._/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="30" height="30"/>
+</a>
 
 ## 👩‍💻 **About Me**
 - IT & Data enthusiast
