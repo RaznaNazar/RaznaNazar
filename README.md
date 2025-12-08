@@ -3,7 +3,7 @@
 *Welcome to my GitHub profile.* 🌸
 
 <a href="https://www.linkedin.com/in/razna-nazar/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30" height="30"/>
+  <img src="assets/linkedin.png" alt="LinkedIn" width="30" height="30"/>
 </a>
            <a href="https://www.instagram.com/razna_._/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="30" height="30"/>
