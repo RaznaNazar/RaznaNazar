@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/razna-nazar" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 10px;" />
   </a>
-  <a href="https://www.instagram.com/razna_nazar" target="_blank">
+  <a href="https://www.instagram.com/razna_._" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="mailto:raznanazar09@gmail.com">
@@ -61,7 +61,7 @@ Feel free to reach out! I'm always open to connecting with fellow developers and
 
 - ✉️ **Email:** raznanazar09@gmail.com
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/razna-nazar)
-- 📸 **Instagram:** [Follow me](https://www.instagram.com/razna_nazar)
+- 📸 **Instagram:** [Follow me](https://www.instagram.com/razna_._)
 
 ---
 
