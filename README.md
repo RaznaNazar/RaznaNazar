@@ -60,7 +60,7 @@
 Feel free to reach out! I'm always open to connecting with fellow developers and data enthusiasts.
 
 - ✉️ **Email:** raznanazar09@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/razna-nazar)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/razna--nazar)
 - 📸 **Instagram:** [Follow me](https://www.instagram.com/razna_._)
 
 ---
